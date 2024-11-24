@@ -1,0 +1,10 @@
+.listaLivros {
+  list-style: none;
+
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  column-gap: 2rem;
+  row-gap: 3rem;
+
+  margin-top: 20px;
+}

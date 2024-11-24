@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  margin: 4rem 0;
+}
+
+.nav {
+  margin-bottom: 30px;
+}
+
+.linkRouter {
+  font-size: 1.5rem;
+}
+
+.linkRouter:hover {
+  color: #4caf50;
+}
+
+.linkRouter:first-of-type {
+  margin-right: 10px;
+}
+
+.linkRouter:nth-child(2) {
+  margin-left: 10px;
+}
